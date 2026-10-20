@@ -1,4 +1,4 @@
-# Educational Application of AI: Wine Quality Prediction
+# Predictive Modeling Application: Wine Quality Prediction
 
 ## Overview
 This repository contains a school project focused on the practical application of Artificial Intelligence and Machine Learning. The primary goal of this project is to build and evaluate predictive models to determine wine quality based on chemical properties, serving as a educational exploration of the standard machine learning pipeline.
